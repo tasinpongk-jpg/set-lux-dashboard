@@ -1,0 +1,11 @@
+scripts/
+.github/
+requirements.txt
+wrangler.jsonc
+*.sh
+*.py
+*.md
+.env
+.gitignore
+__pycache__/
+*.pyc
