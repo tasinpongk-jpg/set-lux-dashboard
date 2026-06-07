@@ -1,3 +1,10 @@
+.git/
+.wrangler/
+.DS_Store
+.env
+.env.example
+.gitignore
+.assetsignore
 scripts/
 .github/
 requirements.txt
@@ -5,7 +12,6 @@ wrangler.jsonc
 *.sh
 *.py
 *.md
-.env
-.gitignore
 __pycache__/
 *.pyc
+reports/
